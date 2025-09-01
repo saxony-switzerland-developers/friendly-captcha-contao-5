@@ -20,11 +20,11 @@
   "require": {
     "php": "^8.1",
     "contao/conflicts": "@dev",
-    "contao/core-bundle": "^4.13",
+    "contao/core-bundle": "^5",
     "symfony/http-client": "^5.4"
   },
   "require-dev": {
-    "contao/manager-bundle": "^4.13",
+    "contao/manager-bundle": "^5",
     "phpunit/phpunit": "^9.5.10",
     "contao/test-case": "^4.4.0",
     "symfony/phpunit-bridge": "v5.3.8",
